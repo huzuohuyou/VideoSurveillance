@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "视频监控", "视频监控\视频监控.csproj", "{827F2F24-C546-4BEE-928D-58E5EED559CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827F2F24-C546-4BEE-928D-58E5EED559CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827F2F24-C546-4BEE-928D-58E5EED559CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827F2F24-C546-4BEE-928D-58E5EED559CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827F2F24-C546-4BEE-928D-58E5EED559CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
